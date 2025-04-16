@@ -1,6 +1,6 @@
 # WCS-Projet3-Analyse-Parkings
 ## contexte 
-Ce projet fait partie du parcours IA proposé par Wilde Code school.  
+Ce projet fait partie du parcours IA proposé par Wild Code school.  
 Ce projet a pour objectif d’analyser des données liées aux parkings afin de mieux comprendre l’occupation, les habitudes d’utilisation et les facteurs influençant la fréquentation. 
 L’analyse repose sur un jeu de données collecté sur une période donnée, contenant notamment des informations sur les emplacements, les horaires, la durée de stationnement, ou encore les caractéristiques des usagers.
 
