@@ -17,8 +17,8 @@ Consulter l'intégralité le rapport : [Consulter le rapport du projet](https://
  Voici un aperçu du tableau de bord développé via streamlit :
 
   <p align="center">
-  <img src="images/1-dash.png" alt="logo2" width="400"/>
-  <img src="images/2-dash.png" alt="logo1" width="400"/>
-  <img src="images/3-dh.png" alt="logo3" width="400"/>
+  <img src="images/1-dash.png" alt="logo2" width="600"/>
+  <img src="images/2-dash.png" alt="logo1" width="600"/>
+  <img src="images/3-dh.png" alt="logo3" width="600"/>
 </p>
 
