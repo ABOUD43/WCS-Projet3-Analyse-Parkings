@@ -6,9 +6,4 @@ rapport : https://colab.research.google.com/drive/1gpRzYzrlMeoCRoz5Mh8eJ30ysy_uM
 ## Power BI 
 
  Voici un aperçu du tableau de bord développé via streamlit 
- <p align="center">
-  <img src="images/Intro_data.png" alt="logo2" width="300"/>
-  <img src="images/Etude_general.png" alt="logo1" width="300"/>
-  <img src="images/KPI.png" alt="logo3" width="300"/>
-  <img src="images/Finances.png" alt="logo3" width="300"/> 
-</p>
+
